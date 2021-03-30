@@ -4,7 +4,9 @@
 IoT 기기를 제어하기 위한 REST API 구현 (기기목록 조회, 기기 정보 상세 조회, 기기 상태 업데이트 등)
 
 ## 2. 개발환경
-Language : JAVA / Framework : Spring Boot
+    IDE : IntelliJ
+    Language : JAVA
+    Framework : Spring Boot
 
 ## 3. ERD
 <img src="https://user-images.githubusercontent.com/43440240/113035966-ab68e180-91ce-11eb-9d04-89d0baed7d0a.png"  width="800" height="450">
