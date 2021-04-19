@@ -40,3 +40,7 @@ public Map<String,Object> list(@RequestHeader(value="usrId", defaultValue="1")in
     return map;
 }
 ```
+## 5. API 설명
+    GET /device/list : 사용자가 보유한 device 목록 조회
+    POST /device/findById : 특정 device 상세 정보 조회
+    PUT /device/update : 특정 device의 resource 상태 변경 (ex: power-switch on/off)
